@@ -1,0 +1,1 @@
+data written in my first file created using fs core module of node jsappend is used to add contents ie old content + new content

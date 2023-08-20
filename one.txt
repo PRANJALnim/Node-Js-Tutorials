@@ -1,0 +1,5 @@
+data in one.txt written from file index.js in asynchronus way
+append
+append
+append
+append
